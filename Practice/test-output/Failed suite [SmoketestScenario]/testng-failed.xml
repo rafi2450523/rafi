@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Failed suite [SmoketestScenario]]">
+  <test name="sprint(failed)(failed)">
+    <classes>
+      <class name="testNG.Test3">
+        <methods>
+          <include name="TV"/>
+        </methods>
+      </class> <!-- testNG.Test3 -->
+    </classes>
+  </test> <!-- sprint(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [SmoketestScenario]] -->

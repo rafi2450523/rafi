@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SmoketestScenario">
+  <test name="sprint">
+    <classes>
+     
+      <class name="testNG.Test1"/>
+      <class name="testNG.Test2"/>
+       <class name="testNG.Test3"/>
+    </classes>
+  </test> <!-- sprint -->
+</suite> <!-- SmoketestScenario -->
